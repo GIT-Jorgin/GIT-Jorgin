@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Sou o Jorge</h1>
-<h3 align="center">Sou desenvolvedor Full stack em javascript!</h3>
+<h3 align="center">Desenvolvedor Full stack em javascript!</h3>
 
 
 <h3 align="left">Linguagens e ferramentas:</h3>
